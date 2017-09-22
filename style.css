@@ -30,8 +30,8 @@
 }
 
 #ctopbot {
-    width:100%;
-    height:30%;
+	width:100%;
+	height:30%;
 }
 
 #bigImg {
@@ -46,14 +46,14 @@
 }
 
 #background {
-    width:98vw;
-    height:625vh;
-    position:absolute;
-    left:0;
-    top:0;
-    background-image: url(img/LordranBG.png);
+	width:98vw;
+	height:625vh;
+	position:absolute;
+	left:0;
+	top:0;
+	background-image: url(img/LordranBG.png);
 }
 
 #ctoptitle, #ctoppara {
-    color:darkslateblue;
+	color:darkslateblue;
 }
